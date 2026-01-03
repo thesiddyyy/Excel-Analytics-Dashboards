@@ -1,11 +1,11 @@
-# 📊 Vrinda Store Sales Dashboard
+# Vrinda Store Sales Dashboard
 
-## 📌 Overview
+## Overview
 The **Vrinda Store Sales Dashboard** is an Excel-based data analytics project designed to analyze sales performance, customer demographics, and channel-wise trends. This dashboard converts raw sales data into interactive and actionable business insights for better decision-making.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze overall sales and order trends  
 - Identify top-performing product categories  
 - Understand customer demographics (gender & age group)  
@@ -13,7 +13,7 @@ The **Vrinda Store Sales Dashboard** is an Excel-based data analytics project de
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Microsoft Excel  
 - Pivot Tables  
 - Pivot Charts  
@@ -22,7 +22,7 @@ The **Vrinda Store Sales Dashboard** is an Excel-based data analytics project de
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Monthly sales trend analysis  
 - Category-wise sales performance  
 - Gender and age group distribution  
@@ -32,7 +32,7 @@ The **Vrinda Store Sales Dashboard** is an Excel-based data analytics project de
 
 ---
 
-## ▶️ How to Use
+## How to Use
 1. Download and open the Excel file  
 2. Navigate to the **Dashboard** sheet  
 3. Use slicers to filter data by month, category, channel, or gender  
@@ -40,7 +40,7 @@ The **Vrinda Store Sales Dashboard** is an Excel-based data analytics project de
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Identifies high-revenue product categories  
 - Highlights valuable customer segments  
 - Shows best-performing sales channels  
@@ -48,13 +48,13 @@ The **Vrinda Store Sales Dashboard** is an Excel-based data analytics project de
 
 ---
 
-## 📁 Project Files
+## Project Files
 - `Vrinda Store Data Analysis 2.xlsx` – Dataset & Dashboard  
 - `README.md` – Project documentation  
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates strong skills in **Excel analytics, data visualization, and business reporting**. The dashboard enables data-driven decision-making and provides a clear view of sales and customer trends.
 
 ---
